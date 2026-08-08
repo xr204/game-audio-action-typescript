@@ -1,0 +1,12 @@
+{
+  "name": "game-audio-action-typescript",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/game_audio_action.ts"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "tsx": "^4.0.0"
+  }
+}
