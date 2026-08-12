@@ -44,4 +44,5 @@ Quick start is above. For a real deployment you'll also need: The details below 
 
 ## Further reading
 
+- [Edtech CSV Enrichment: Testing Node.js LLM Text Classification API Quality and Latency](docs/edtech-csv-enrichment-testing-node-js-llm-text-cl-1eyobh.md)
 - [Admission Control for One-Key Text-to-Image APIs Serving Multiple AI Models](docs/admission-control-for-one-key-text-to-image-apis-cl5mro.md)
